@@ -1,0 +1,7 @@
+{
+  "platformName": "iOS",
+  "platformVersion": "14.4",
+  "deviceName": "iPhone Simulator",
+  "app": "/path/to/To-Do-List.app",
+  "automationName": "XCUITest"
+}
